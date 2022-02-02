@@ -21,6 +21,7 @@ solverLog=logging.getLogger('solverLog')
 # solverLog.propagate = False
 
 """
+тест
 Много данных есть в NASA/TP—2002-211556 и в Third Millennium Ideal Gas and Condensed Phase
 Thermochemical Database for Combustion with Updates from Active Thermochemical Tables
 
